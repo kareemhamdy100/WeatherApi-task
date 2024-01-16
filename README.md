@@ -41,3 +41,6 @@ Cash Module named `weatherApiCash` has been implemented. This simple cache uses 
 - **Getting from Cache:** The cache retrieval depends on the location. If the location is within a radius of 10 km and the time is within 10 minutes, the cache hit occurs; otherwise, it's a cache miss.
 
 To enhance this cache, consideration could be given to using an external in-memory database and employing more efficient data structures.
+
+## Note: 
+we should move the api key and all settings to be in .env file 
