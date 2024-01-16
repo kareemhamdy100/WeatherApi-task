@@ -43,4 +43,6 @@ Cash Module named `weatherApiCash` has been implemented. This simple cache uses 
 To enhance this cache, consideration could be given to using an external in-memory database and employing more efficient data structures.
 
 ## Note: 
-we should move the api key and all settings to be in .env file 
+- we should move the api key and all settings to be in .env file 
+- add more tests
+- build file structure for tests
